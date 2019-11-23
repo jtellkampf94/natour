@@ -1,0 +1,23 @@
+{
+  "name": "natour",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtellkampf94/natour.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jtellkampf94/natour/issues"
+  },
+  "homepage": "https://github.com/jtellkampf94/natour#readme",
+  "devDependencies": {
+    "node-sass": "^4.13.0"
+  }
+}
